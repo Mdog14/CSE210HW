@@ -1,0 +1,1 @@
+// Manage entry objects and handle file manipulation
