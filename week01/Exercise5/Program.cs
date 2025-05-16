@@ -28,7 +28,7 @@ class Program
     {
         Console.Write("Please enter your favorite number: ");
         string input = Console.ReadLine();
-        int number = int.Parse(input); // or use int.TryParse for safety
+        int number = int.Parse(input); 
         return number;
     }
 
