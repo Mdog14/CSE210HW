@@ -1,5 +1,5 @@
 using System;
-using System.Collections.Generic;  // <-- Needed for List<T>
+using System.Collections.Generic; 
 
 class Program
 {
@@ -9,7 +9,7 @@ class Program
 
         List<double> numbers = new List<double>();
 
-        double total = 0;       // Declare outside the loop
+        double total = 0;       
         double average = 0;
         double largest = 0;
 
